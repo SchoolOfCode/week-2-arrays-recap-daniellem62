@@ -19,7 +19,57 @@ const profitSevenDayPyramindScheme = [1, 2, 4, 8, 16, 32, 64]
 //32
 //64
 
-const friends = []
+let friend1 = {
+    name: "Chris",
+    specialSkill: "changing lives"
+} 
+
+let friend2 = {
+    name: "Lizzie",
+    specialSkill: "being friendly"
+}
+    
+let friend3 = {
+    name: "Ben",
+    specialSkill: "code rapping"
+} 
+
+let friend4 = {
+    name: "Tao",
+    specialSkill: "hand raising"
+} 
+
+let friend5 = {
+    name: "Liz",
+    specialSkill: "crochet"
+} 
+
+let friend6 = {
+    name: "Patrick",
+    specialSkill: "Call of Duty"
+} 
+
+let friend7 = {
+    name: "Tim",
+    specialSkill: "analogies"
+} 
+
+let friend8 = {
+    name: "James",
+    specialSkill: "friendship"
+} 
+
+let friend9 = {
+    name: "Joseph",
+    specialSkill: "being positive"
+} 
+
+let friend10 = {
+    name: "Max",
+    specialSkill: "papier-mâché"
+} 
+
+const friends = [friend1, friend2, friend3, friend4, friend5, friend6, friend7, friend8, friend9, friend10]
 // Friends
 //Name is Chris; special skill is changing lives.
 //Name is Lizzie; special skill is being friendly.
